@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "autoUpdate": "",
+        "clipboardSeconds": 30,
+        "autoSaveInterval": 1,
+        "demoOpened": true,
+        "yubiKeyAutoOpen": true,
+        "canOpenDemo": false,
+        "dropbox": false,
+        "gdrive": false,
+        "onedrive": false
+    },
+    "files": [{
+        "storage": "webdav",
+        "name": "my.kdbx",
+        "path": "https://pwd.kix.co.il/webdav/my.kdbx",
+        "options": { "user": "", "password": "" }
+    }],
+    "showOnlyFilesFromConfig": false,
+    "plugins": []
+}
